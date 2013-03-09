@@ -1,0 +1,49 @@
+* {
+	background-color:white;
+	
+}
+
+h1 {
+	font-family:arial;
+	text-align:center;
+}
+.team {
+	height:100px;
+	width:500px;
+	border:solid 1px;
+	margin:auto;
+	background-color:#EBEBEB;
+	text-align:center;
+	font-weight:bold;
+}
+li {
+	list-style:none;
+}
+.visiting {
+	height:450px;
+	width:450px;
+	border:solid 1px;
+	background-color:#EBEBEB;
+	margin-top:50px;
+	
+}
+
+.home {
+	height:450px;
+	width:450px;
+	border:solid 1px;
+	background-color:#EBEBEB;
+	margin-top:50px;
+		
+}
+
+.bg_color {
+	background-color:#EBEBEB;
+}
+
+.wrapper {
+	border:solid 1px;
+	height:1000px;
+	width:1000px;
+	
+}
